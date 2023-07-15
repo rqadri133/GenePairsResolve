@@ -1,3 +1,5 @@
+
+// this copy right to syed qadri hacker rank problem solution 
 ﻿using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.Collections;
