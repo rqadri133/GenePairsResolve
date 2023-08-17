@@ -1,0 +1,15 @@
+/Users/syedqadri/Documents/Development/GenePairsResolve/TestDrivenFindGenePairs/bin/Debug/net7.0/TestDrivenFindGenePairs
+/Users/syedqadri/Documents/Development/GenePairsResolve/TestDrivenFindGenePairs/bin/Debug/net7.0/TestDrivenFindGenePairs.deps.json
+/Users/syedqadri/Documents/Development/GenePairsResolve/TestDrivenFindGenePairs/bin/Debug/net7.0/TestDrivenFindGenePairs.runtimeconfig.json
+/Users/syedqadri/Documents/Development/GenePairsResolve/TestDrivenFindGenePairs/bin/Debug/net7.0/TestDrivenFindGenePairs.dll
+/Users/syedqadri/Documents/Development/GenePairsResolve/TestDrivenFindGenePairs/bin/Debug/net7.0/TestDrivenFindGenePairs.pdb
+/Users/syedqadri/Documents/Development/GenePairsResolve/TestDrivenFindGenePairs/obj/Debug/net7.0/TestDrivenFindGenePairs.csproj.AssemblyReference.cache
+/Users/syedqadri/Documents/Development/GenePairsResolve/TestDrivenFindGenePairs/obj/Debug/net7.0/TestDrivenFindGenePairs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/syedqadri/Documents/Development/GenePairsResolve/TestDrivenFindGenePairs/obj/Debug/net7.0/TestDrivenFindGenePairs.AssemblyInfoInputs.cache
+/Users/syedqadri/Documents/Development/GenePairsResolve/TestDrivenFindGenePairs/obj/Debug/net7.0/TestDrivenFindGenePairs.AssemblyInfo.cs
+/Users/syedqadri/Documents/Development/GenePairsResolve/TestDrivenFindGenePairs/obj/Debug/net7.0/TestDrivenFindGenePairs.csproj.CoreCompileInputs.cache
+/Users/syedqadri/Documents/Development/GenePairsResolve/TestDrivenFindGenePairs/obj/Debug/net7.0/TestDrivenFindGenePairs.dll
+/Users/syedqadri/Documents/Development/GenePairsResolve/TestDrivenFindGenePairs/obj/Debug/net7.0/refint/TestDrivenFindGenePairs.dll
+/Users/syedqadri/Documents/Development/GenePairsResolve/TestDrivenFindGenePairs/obj/Debug/net7.0/TestDrivenFindGenePairs.pdb
+/Users/syedqadri/Documents/Development/GenePairsResolve/TestDrivenFindGenePairs/obj/Debug/net7.0/TestDrivenFindGenePairs.genruntimeconfig.cache
+/Users/syedqadri/Documents/Development/GenePairsResolve/TestDrivenFindGenePairs/obj/Debug/net7.0/ref/TestDrivenFindGenePairs.dll

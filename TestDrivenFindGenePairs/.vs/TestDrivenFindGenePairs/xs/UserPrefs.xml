@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{EACBAEB4-F481-4675-9B5B-3EDAD3374D95}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interfaces/IGeneHealthCalulator.cs">
+    <Files>
+      <File FileName="Program.cs" Line="42" Column="1" />
+      <File FileName="Classes/Genetics.cs" Line="1" Column="1" />
+      <File FileName="TestData/testdataInput.txt" Line="1" Column="1" />
+      <File FileName="TestData/testlargegenedata.txt" Line="1" Column="1" />
+      <File FileName="Classes/Gene.cs" Line="16" Column="5" />
+      <File FileName="Classes/LinearStructure.cs" Line="32" Column="71" />
+      <File FileName="TestData/backstringdata.txt" Line="1" Column="1" />
+      <File FileName="Classes/ElementCode.cs" Line="1" Column="1" />
+      <File FileName="Classes/Strand.cs" Line="1" Column="1" />
+      <File FileName="Interfaces/IFileLoadersInMemory.cs" Line="1" Column="1" />
+      <File FileName="Interfaces/IGeneHealthCalulator.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestDrivenFindGenePairs" expanded="True">
+            <Node name="TestDrivenFindGenePairs" expanded="True">
+              <Node name="Classes" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="TestData" expanded="True" />
+              <Node name="determining-dna-health-English.pdf" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestDrivenFindGenePairs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

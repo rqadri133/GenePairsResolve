@@ -11,7 +11,7 @@ public class Line
      get;
      set;
   }
-
+  
   public int Index 
   {
       get;

@@ -16,7 +16,10 @@ using System;
 using TestDrivenFindGenePairs.Classes.Util;
 using TestDrivenFindGenePairs.Classes;
 using TestDrivenFindGenePairs.interfaces;
-
+/// <summary>
+/// Please dont copy this code model i have provided the answers and serach gene patterns here and added addition fucntionality 
+/// You can look into my code for learining purpose but dont use it for your assignment submission.
+/// /// </summary>
 public enum GeneFileStructure
 {
     FlatFileLinear,
@@ -33,7 +36,8 @@ class Solution
     
     public static void Main(string[] args)
     {
-           IEnumerable<string> files = Directory.EnumerateFiles(Environment.CurrentDirectory + "\\TestData" );
+           
+           IEnumerable<string> files = Directory.EnumerateFiles(Environment.CurrentDirectory + "//TestDrivenFindGenePairs//TestData//" );
            List<Line> lines = new List<Line>();
            // Currently its just one structure 
            GeneFileStructure fileSystem = GeneFileStructure.FlatFileLinear;     
