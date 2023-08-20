@@ -17,7 +17,7 @@ using TestDrivenFindGenePairs.Classes.Util;
 using TestDrivenFindGenePairs.Classes;
 using TestDrivenFindGenePairs.interfaces;
 /// <summary>
-/// Please dont copy this code model i have provided the answers and serach gene patterns here and added addition fucntionality 
+/// Please dont copy this code model i have provided the answers and search gene patterns here and added additional functionality  
 /// You can look into my code for learining purpose but dont use it for your assignment submission.
 /// /// </summary>
 public enum GeneFileStructure

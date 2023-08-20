@@ -9,6 +9,9 @@ using System.Diagnostics;
 using System.Threading.Tasks;
 namespace TestDrivenFindGenePairs.Classes
 {
+    /// <summary>
+    /// This Code Answers alogorithm provided by me Syed Qadri , Please don't copy for your exam
+    /// </summary>
     public class LinearStuctureGene : IGeneHealthCalculator
     {
 
